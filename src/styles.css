@@ -66,6 +66,12 @@ body {
   color: black;
 }
 
+.section-one {
+  background-color: aqua;
+  font-size: 12px;
+}
+.section-one h2 {
+  font-size: 24px;
 .tittle {
   color: green;
 }
