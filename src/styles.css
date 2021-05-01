@@ -65,3 +65,11 @@ body {
   background-color: rgb(32, 221, 105);
   color: black;
 }
+
+.section-one {
+  background-color: aqua;
+  font-size: 12px;
+}
+.section-one h2 {
+  font-size: 24px;
+}
