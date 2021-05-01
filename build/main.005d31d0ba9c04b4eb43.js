@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{L1EO:function(e,n,t){},QfWi:function(e,n,t){"use strict";t.r(n);t("L1EO"),t("Td1P")},Td1P:function(e,n){document.querySelector(".button").addEventListener("click",(function(){alert("Authorized here")})),document.querySelector("#search-btn").addEventListener("click",(function(){alert("Search")}))}},[["QfWi",1]]]);
+//# sourceMappingURL=main.005d31d0ba9c04b4eb43.js.map
